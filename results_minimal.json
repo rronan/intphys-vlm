@@ -1,0 +1,1442 @@
+{
+  "O1/01/1": {
+    "score": 0.15,
+    "reasoning": null
+  },
+  "O1/01/2": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O1/01/3": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O1/01/4": {
+    "score": 0.2,
+    "reasoning": null
+  },
+  "O1/02/1": {
+    "score": 0.2,
+    "reasoning": null
+  },
+  "O1/02/2": {
+    "score": 0.4,
+    "reasoning": null
+  },
+  "O1/02/3": {
+    "score": 0.2,
+    "reasoning": null
+  },
+  "O1/02/4": {
+    "score": 0.1,
+    "reasoning": null
+  },
+  "O1/03/1": {
+    "score": 1.0,
+    "reasoning": null
+  },
+  "O1/03/2": {
+    "score": 1.0,
+    "reasoning": null
+  },
+  "O1/03/3": {
+    "score": 0.1,
+    "reasoning": null
+  },
+  "O1/03/4": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O1/04/1": {
+    "score": 0.05,
+    "reasoning": null
+  },
+  "O1/04/2": {
+    "score": 0.1,
+    "reasoning": null
+  },
+  "O1/04/3": {
+    "score": 0.1,
+    "reasoning": null
+  },
+  "O1/04/4": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O1/05/1": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O1/05/2": {
+    "score": 0.3,
+    "reasoning": null
+  },
+  "O1/05/3": {
+    "score": 0.95,
+    "reasoning": null
+  },
+  "O1/05/4": {
+    "score": 0.2,
+    "reasoning": null
+  },
+  "O1/06/1": {
+    "score": 0.85,
+    "reasoning": null
+  },
+  "O1/06/2": {
+    "score": 0.1,
+    "reasoning": null
+  },
+  "O1/06/3": {
+    "score": 0.1,
+    "reasoning": null
+  },
+  "O1/06/4": {
+    "score": 0.95,
+    "reasoning": null
+  },
+  "O1/07/1": {
+    "score": 1.0,
+    "reasoning": null
+  },
+  "O1/07/2": {
+    "score": 0.1,
+    "reasoning": null
+  },
+  "O1/07/3": {
+    "score": 0.1,
+    "reasoning": null
+  },
+  "O1/07/4": {
+    "score": 0.8,
+    "reasoning": null
+  },
+  "O1/08/1": {
+    "score": 0.2,
+    "reasoning": null
+  },
+  "O1/08/2": {
+    "score": 0.3,
+    "reasoning": null
+  },
+  "O1/08/3": {
+    "score": 1.0,
+    "reasoning": null
+  },
+  "O1/08/4": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O1/09/1": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O1/09/2": {
+    "score": 0.3,
+    "reasoning": null
+  },
+  "O1/09/3": {
+    "score": 0.1,
+    "reasoning": null
+  },
+  "O1/09/4": {
+    "score": 0.1,
+    "reasoning": null
+  },
+  "O1/10/1": {
+    "score": 0.3,
+    "reasoning": null
+  },
+  "O1/10/2": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O1/10/3": {
+    "score": 1.0,
+    "reasoning": null
+  },
+  "O1/10/4": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O1/11/1": {
+    "score": 1.0,
+    "reasoning": null
+  },
+  "O1/11/2": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O1/11/3": {
+    "score": 1.0,
+    "reasoning": null
+  },
+  "O1/11/4": {
+    "score": 0.9,
+    "reasoning": null
+  },
+  "O1/12/1": {
+    "score": 0.25,
+    "reasoning": null
+  },
+  "O1/12/2": {
+    "score": 0.15,
+    "reasoning": null
+  },
+  "O1/12/3": {
+    "score": 0.1,
+    "reasoning": null
+  },
+  "O1/12/4": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O1/13/1": {
+    "score": 0.2,
+    "reasoning": null
+  },
+  "O1/13/2": {
+    "score": 1.0,
+    "reasoning": null
+  },
+  "O1/13/3": {
+    "score": 1.0,
+    "reasoning": null
+  },
+  "O1/13/4": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O1/14/1": {
+    "score": 0.25,
+    "reasoning": null
+  },
+  "O1/14/2": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O1/14/3": {
+    "score": 0.3,
+    "reasoning": null
+  },
+  "O1/14/4": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O1/15/1": {
+    "score": 0.2,
+    "reasoning": null
+  },
+  "O1/15/2": {
+    "score": 0.2,
+    "reasoning": null
+  },
+  "O1/15/3": {
+    "score": 0.9,
+    "reasoning": null
+  },
+  "O1/15/4": {
+    "score": 0.3,
+    "reasoning": null
+  },
+  "O1/16/1": {
+    "score": 1.0,
+    "reasoning": null
+  },
+  "O1/16/2": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O1/16/3": {
+    "score": 1.0,
+    "reasoning": null
+  },
+  "O1/16/4": {
+    "score": 1.0,
+    "reasoning": null
+  },
+  "O1/17/1": {
+    "score": 0.1,
+    "reasoning": null
+  },
+  "O1/17/2": {
+    "score": 0.1,
+    "reasoning": null
+  },
+  "O1/17/3": {
+    "score": 0.4,
+    "reasoning": null
+  },
+  "O1/17/4": {
+    "score": 0.2,
+    "reasoning": null
+  },
+  "O1/18/1": {
+    "score": 0.8,
+    "reasoning": null
+  },
+  "O1/18/2": {
+    "score": 0.2,
+    "reasoning": null
+  },
+  "O1/18/3": {
+    "score": 0.2,
+    "reasoning": null
+  },
+  "O1/18/4": {
+    "score": 0.9,
+    "reasoning": null
+  },
+  "O1/19/1": {
+    "score": 0.1,
+    "reasoning": null
+  },
+  "O1/19/2": {
+    "score": 0.2,
+    "reasoning": null
+  },
+  "O1/19/3": {
+    "score": 0.2,
+    "reasoning": null
+  },
+  "O1/19/4": {
+    "score": 1.0,
+    "reasoning": null
+  },
+  "O1/20/1": {
+    "score": 0.2,
+    "reasoning": null
+  },
+  "O1/20/2": {
+    "score": 0.2,
+    "reasoning": null
+  },
+  "O1/20/3": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O1/20/4": {
+    "score": 0.95,
+    "reasoning": null
+  },
+  "O1/21/1": {
+    "score": 1.0,
+    "reasoning": null
+  },
+  "O1/21/2": {
+    "score": 1.0,
+    "reasoning": null
+  },
+  "O1/21/3": {
+    "score": 1.0,
+    "reasoning": null
+  },
+  "O1/21/4": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O1/22/1": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O1/22/2": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O1/22/3": {
+    "score": 0.25,
+    "reasoning": null
+  },
+  "O1/22/4": {
+    "score": 1.0,
+    "reasoning": null
+  },
+  "O1/23/1": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O1/23/2": {
+    "score": 0.9,
+    "reasoning": null
+  },
+  "O1/23/3": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O1/23/4": {
+    "score": 0.1,
+    "reasoning": null
+  },
+  "O1/24/1": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O1/24/2": {
+    "score": 0.2,
+    "reasoning": null
+  },
+  "O1/24/3": {
+    "score": 0.2,
+    "reasoning": null
+  },
+  "O1/24/4": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O1/25/1": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O1/25/2": {
+    "score": 0.25,
+    "reasoning": null
+  },
+  "O1/25/3": {
+    "score": 1.0,
+    "reasoning": null
+  },
+  "O1/25/4": {
+    "score": 1.0,
+    "reasoning": null
+  },
+  "O1/26/1": {
+    "score": 0.1,
+    "reasoning": null
+  },
+  "O1/26/2": {
+    "score": 1.0,
+    "reasoning": null
+  },
+  "O1/26/3": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O1/26/4": {
+    "score": 0.9,
+    "reasoning": null
+  },
+  "O1/27/1": {
+    "score": 0.4,
+    "reasoning": null
+  },
+  "O1/27/2": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O1/27/3": {
+    "score": 0.2,
+    "reasoning": null
+  },
+  "O1/27/4": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O1/28/1": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O1/28/2": {
+    "score": 0.2,
+    "reasoning": null
+  },
+  "O1/28/3": {
+    "score": 0.1,
+    "reasoning": null
+  },
+  "O1/28/4": {
+    "score": 0.2,
+    "reasoning": null
+  },
+  "O1/29/1": {
+    "score": 0.9,
+    "reasoning": null
+  },
+  "O1/29/2": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O1/29/3": {
+    "score": 0.1,
+    "reasoning": null
+  },
+  "O1/29/4": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O1/30/1": {
+    "score": 0.2,
+    "reasoning": null
+  },
+  "O1/30/2": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O1/30/3": {
+    "score": 0.2,
+    "reasoning": null
+  },
+  "O1/30/4": {
+    "score": 0.3,
+    "reasoning": null
+  },
+  "O2/01/1": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O2/01/2": {
+    "score": 0.2,
+    "reasoning": null
+  },
+  "O2/01/3": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O2/01/4": {
+    "score": 0.1,
+    "reasoning": null
+  },
+  "O2/02/1": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O2/02/2": {
+    "score": 1.0,
+    "reasoning": null
+  },
+  "O2/02/3": {
+    "score": 1.0,
+    "reasoning": null
+  },
+  "O2/02/4": {
+    "score": 0.1,
+    "reasoning": null
+  },
+  "O2/03/1": {
+    "score": 0.9,
+    "reasoning": null
+  },
+  "O2/03/2": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O2/03/3": {
+    "score": 0.3,
+    "reasoning": null
+  },
+  "O2/03/4": {
+    "score": 0.05,
+    "reasoning": null
+  },
+  "O2/04/1": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O2/04/2": {
+    "score": 0.8,
+    "reasoning": null
+  },
+  "O2/04/3": {
+    "score": 1.0,
+    "reasoning": null
+  },
+  "O2/04/4": {
+    "score": 1.0,
+    "reasoning": null
+  },
+  "O2/05/1": {
+    "score": 0.3,
+    "reasoning": null
+  },
+  "O2/05/2": {
+    "score": 0.2,
+    "reasoning": null
+  },
+  "O2/05/3": {
+    "score": 1.0,
+    "reasoning": null
+  },
+  "O2/05/4": {
+    "score": 0.2,
+    "reasoning": null
+  },
+  "O2/06/1": {
+    "score": 0.3,
+    "reasoning": null
+  },
+  "O2/06/2": {
+    "score": 1.0,
+    "reasoning": null
+  },
+  "O2/06/3": {
+    "score": 1.0,
+    "reasoning": null
+  },
+  "O2/06/4": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O2/07/1": {
+    "score": 0.2,
+    "reasoning": null
+  },
+  "O2/07/2": {
+    "score": 0.3,
+    "reasoning": null
+  },
+  "O2/07/3": {
+    "score": 0.8,
+    "reasoning": null
+  },
+  "O2/07/4": {
+    "score": 0.1,
+    "reasoning": null
+  },
+  "O2/08/1": {
+    "score": 1.0,
+    "reasoning": null
+  },
+  "O2/08/2": {
+    "score": 0.1,
+    "reasoning": null
+  },
+  "O2/08/3": {
+    "score": 1.0,
+    "reasoning": null
+  },
+  "O2/08/4": {
+    "score": 0.2,
+    "reasoning": null
+  },
+  "O2/09/1": {
+    "score": 0.1,
+    "reasoning": null
+  },
+  "O2/09/2": {
+    "score": 0.4,
+    "reasoning": null
+  },
+  "O2/09/3": {
+    "score": 0.2,
+    "reasoning": null
+  },
+  "O2/09/4": {
+    "score": 0.9,
+    "reasoning": null
+  },
+  "O2/10/1": {
+    "score": 0.7,
+    "reasoning": null
+  },
+  "O2/10/2": {
+    "score": 0.05,
+    "reasoning": null
+  },
+  "O2/10/3": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O2/10/4": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O2/11/1": {
+    "score": 0.1,
+    "reasoning": null
+  },
+  "O2/11/2": {
+    "score": 0.1,
+    "reasoning": null
+  },
+  "O2/11/3": {
+    "score": 0.1,
+    "reasoning": null
+  },
+  "O2/11/4": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O2/12/1": {
+    "score": 0.3,
+    "reasoning": null
+  },
+  "O2/12/2": {
+    "score": 0.9,
+    "reasoning": null
+  },
+  "O2/12/3": {
+    "score": 0.8,
+    "reasoning": null
+  },
+  "O2/12/4": {
+    "score": 0.3,
+    "reasoning": null
+  },
+  "O2/13/1": {
+    "score": 0.9,
+    "reasoning": null
+  },
+  "O2/13/2": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O2/13/3": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O2/13/4": {
+    "score": 0.1,
+    "reasoning": null
+  },
+  "O2/14/1": {
+    "score": 0.2,
+    "reasoning": null
+  },
+  "O2/14/2": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O2/14/3": {
+    "score": 0.2,
+    "reasoning": null
+  },
+  "O2/14/4": {
+    "score": 0.1,
+    "reasoning": null
+  },
+  "O2/15/1": {
+    "score": 0.2,
+    "reasoning": null
+  },
+  "O2/15/2": {
+    "score": 1.0,
+    "reasoning": null
+  },
+  "O2/15/3": {
+    "score": 0.2,
+    "reasoning": null
+  },
+  "O2/15/4": {
+    "score": 0.2,
+    "reasoning": null
+  },
+  "O2/16/1": {
+    "score": 0.9,
+    "reasoning": null
+  },
+  "O2/16/2": {
+    "score": 0.3,
+    "reasoning": null
+  },
+  "O2/16/3": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O2/16/4": {
+    "score": 0.9,
+    "reasoning": null
+  },
+  "O2/17/1": {
+    "score": 1.0,
+    "reasoning": null
+  },
+  "O2/17/2": {
+    "score": 0.2,
+    "reasoning": null
+  },
+  "O2/17/3": {
+    "score": 0.95,
+    "reasoning": null
+  },
+  "O2/17/4": {
+    "score": 0.85,
+    "reasoning": null
+  },
+  "O2/18/1": {
+    "score": 0.25,
+    "reasoning": null
+  },
+  "O2/18/2": {
+    "score": 0.8,
+    "reasoning": null
+  },
+  "O2/18/3": {
+    "score": 0.1,
+    "reasoning": null
+  },
+  "O2/18/4": {
+    "score": 1.0,
+    "reasoning": null
+  },
+  "O2/19/1": {
+    "score": 0.1,
+    "reasoning": null
+  },
+  "O2/19/2": {
+    "score": 0.3,
+    "reasoning": null
+  },
+  "O2/19/3": {
+    "score": 0.2,
+    "reasoning": null
+  },
+  "O2/19/4": {
+    "score": 0.1,
+    "reasoning": null
+  },
+  "O2/20/1": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O2/20/2": {
+    "score": 0.2,
+    "reasoning": null
+  },
+  "O2/20/3": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O2/20/4": {
+    "score": 0.2,
+    "reasoning": null
+  },
+  "O2/21/1": {
+    "score": 0.25,
+    "reasoning": null
+  },
+  "O2/21/2": {
+    "score": 0.2,
+    "reasoning": null
+  },
+  "O2/21/3": {
+    "score": 0.2,
+    "reasoning": null
+  },
+  "O2/21/4": {
+    "score": 0.2,
+    "reasoning": null
+  },
+  "O2/22/1": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O2/22/2": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O2/22/3": {
+    "score": 0.1,
+    "reasoning": null
+  },
+  "O2/22/4": {
+    "score": 0.2,
+    "reasoning": null
+  },
+  "O2/23/1": {
+    "score": 0.15,
+    "reasoning": null
+  },
+  "O2/23/2": {
+    "score": 0.2,
+    "reasoning": null
+  },
+  "O2/23/3": {
+    "score": 0.2,
+    "reasoning": null
+  },
+  "O2/23/4": {
+    "score": 0.9,
+    "reasoning": null
+  },
+  "O2/24/1": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O2/24/2": {
+    "score": 1.0,
+    "reasoning": null
+  },
+  "O2/24/3": {
+    "score": 1.0,
+    "reasoning": null
+  },
+  "O2/24/4": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O2/25/1": {
+    "score": 0.2,
+    "reasoning": null
+  },
+  "O2/25/2": {
+    "score": 0.1,
+    "reasoning": null
+  },
+  "O2/25/3": {
+    "score": 0.95,
+    "reasoning": null
+  },
+  "O2/25/4": {
+    "score": 0.1,
+    "reasoning": null
+  },
+  "O2/26/1": {
+    "score": 0.95,
+    "reasoning": null
+  },
+  "O2/26/2": {
+    "score": 0.45,
+    "reasoning": null
+  },
+  "O2/26/3": {
+    "score": 0.1,
+    "reasoning": null
+  },
+  "O2/26/4": {
+    "score": 0.2,
+    "reasoning": null
+  },
+  "O2/27/1": {
+    "score": 0.2,
+    "reasoning": null
+  },
+  "O2/27/2": {
+    "score": 0.05,
+    "reasoning": null
+  },
+  "O2/27/3": {
+    "score": 0.8,
+    "reasoning": null
+  },
+  "O2/27/4": {
+    "score": 0.1,
+    "reasoning": null
+  },
+  "O2/28/1": {
+    "score": 0.9,
+    "reasoning": null
+  },
+  "O2/28/2": {
+    "score": 1.0,
+    "reasoning": null
+  },
+  "O2/28/3": {
+    "score": 0.9,
+    "reasoning": null
+  },
+  "O2/28/4": {
+    "score": 0.1,
+    "reasoning": null
+  },
+  "O2/29/1": {
+    "score": 0.8,
+    "reasoning": null
+  },
+  "O2/29/2": {
+    "score": 0.1,
+    "reasoning": null
+  },
+  "O2/29/3": {
+    "score": 0.85,
+    "reasoning": null
+  },
+  "O2/29/4": {
+    "score": 0.5,
+    "reasoning": null
+  },
+  "O2/30/1": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O2/30/2": {
+    "score": 0.85,
+    "reasoning": null
+  },
+  "O2/30/3": {
+    "score": 0.1,
+    "reasoning": null
+  },
+  "O2/30/4": {
+    "score": 0.9,
+    "reasoning": null
+  },
+  "O3/01/1": {
+    "score": 1.0,
+    "reasoning": null
+  },
+  "O3/01/2": {
+    "score": 0.05,
+    "reasoning": null
+  },
+  "O3/01/3": {
+    "score": 0.1,
+    "reasoning": null
+  },
+  "O3/01/4": {
+    "score": 0.3,
+    "reasoning": null
+  },
+  "O3/02/1": {
+    "score": 0.1,
+    "reasoning": null
+  },
+  "O3/02/2": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O3/02/3": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O3/02/4": {
+    "score": 0.2,
+    "reasoning": null
+  },
+  "O3/03/1": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O3/03/2": {
+    "score": 0.2,
+    "reasoning": null
+  },
+  "O3/03/3": {
+    "score": 0.85,
+    "reasoning": null
+  },
+  "O3/03/4": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O3/04/1": {
+    "score": 0.25,
+    "reasoning": null
+  },
+  "O3/04/2": {
+    "score": 0.95,
+    "reasoning": null
+  },
+  "O3/04/3": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O3/04/4": {
+    "score": 1.0,
+    "reasoning": null
+  },
+  "O3/05/1": {
+    "score": 0.2,
+    "reasoning": null
+  },
+  "O3/05/2": {
+    "score": 0.2,
+    "reasoning": null
+  },
+  "O3/05/3": {
+    "score": 0.25,
+    "reasoning": null
+  },
+  "O3/05/4": {
+    "score": 0.3,
+    "reasoning": null
+  },
+  "O3/06/1": {
+    "score": 0.3,
+    "reasoning": null
+  },
+  "O3/06/2": {
+    "score": 0.05,
+    "reasoning": null
+  },
+  "O3/06/3": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O3/06/4": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O3/07/1": {
+    "score": 1.0,
+    "reasoning": null
+  },
+  "O3/07/2": {
+    "score": 1.0,
+    "reasoning": null
+  },
+  "O3/07/3": {
+    "score": 1.0,
+    "reasoning": null
+  },
+  "O3/07/4": {
+    "score": 0.9,
+    "reasoning": null
+  },
+  "O3/08/1": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O3/08/2": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O3/08/3": {
+    "score": 0.2,
+    "reasoning": null
+  },
+  "O3/08/4": {
+    "score": 0.2,
+    "reasoning": null
+  },
+  "O3/09/1": {
+    "score": 0.1,
+    "reasoning": null
+  },
+  "O3/09/2": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O3/09/3": {
+    "score": 0.2,
+    "reasoning": null
+  },
+  "O3/09/4": {
+    "score": 0.9,
+    "reasoning": null
+  },
+  "O3/10/1": {
+    "score": 0.9,
+    "reasoning": null
+  },
+  "O3/10/2": {
+    "score": 0.95,
+    "reasoning": null
+  },
+  "O3/10/3": {
+    "score": 0.25,
+    "reasoning": null
+  },
+  "O3/10/4": {
+    "score": 0.2,
+    "reasoning": null
+  },
+  "O3/11/1": {
+    "score": 0.25,
+    "reasoning": null
+  },
+  "O3/11/2": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O3/11/3": {
+    "score": 0.3,
+    "reasoning": null
+  },
+  "O3/11/4": {
+    "score": 0.8,
+    "reasoning": null
+  },
+  "O3/12/1": {
+    "score": 0.3,
+    "reasoning": null
+  },
+  "O3/12/2": {
+    "score": 0.9,
+    "reasoning": null
+  },
+  "O3/12/3": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O3/12/4": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O3/13/1": {
+    "score": 0.2,
+    "reasoning": null
+  },
+  "O3/13/2": {
+    "score": 0.1,
+    "reasoning": null
+  },
+  "O3/13/3": {
+    "score": 0.15,
+    "reasoning": null
+  },
+  "O3/13/4": {
+    "score": 0.9,
+    "reasoning": null
+  },
+  "O3/14/1": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O3/14/2": {
+    "score": 0.1,
+    "reasoning": null
+  },
+  "O3/14/3": {
+    "score": 0.2,
+    "reasoning": null
+  },
+  "O3/14/4": {
+    "score": 0.95,
+    "reasoning": null
+  },
+  "O3/15/1": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O3/15/2": {
+    "score": 0.25,
+    "reasoning": null
+  },
+  "O3/15/3": {
+    "score": 0.3,
+    "reasoning": null
+  },
+  "O3/15/4": {
+    "score": 0.25,
+    "reasoning": null
+  },
+  "O3/16/1": {
+    "score": 0.2,
+    "reasoning": null
+  },
+  "O3/16/2": {
+    "score": 1.0,
+    "reasoning": null
+  },
+  "O3/16/3": {
+    "score": 0.8,
+    "reasoning": null
+  },
+  "O3/16/4": {
+    "score": 1.0,
+    "reasoning": null
+  },
+  "O3/17/1": {
+    "score": 0.1,
+    "reasoning": null
+  },
+  "O3/17/2": {
+    "score": 0.1,
+    "reasoning": null
+  },
+  "O3/17/3": {
+    "score": 0.85,
+    "reasoning": null
+  },
+  "O3/17/4": {
+    "score": 0.85,
+    "reasoning": null
+  },
+  "O3/18/1": {
+    "score": 0.25,
+    "reasoning": null
+  },
+  "O3/18/2": {
+    "score": 0.3,
+    "reasoning": null
+  },
+  "O3/18/3": {
+    "score": 0.1,
+    "reasoning": null
+  },
+  "O3/18/4": {
+    "score": 0.1,
+    "reasoning": null
+  },
+  "O3/19/1": {
+    "score": 0.05,
+    "reasoning": null
+  },
+  "O3/19/2": {
+    "score": 0.1,
+    "reasoning": null
+  },
+  "O3/19/3": {
+    "score": 0.1,
+    "reasoning": null
+  },
+  "O3/19/4": {
+    "score": 0.8,
+    "reasoning": null
+  },
+  "O3/20/1": {
+    "score": 0.2,
+    "reasoning": null
+  },
+  "O3/20/2": {
+    "score": 0.3,
+    "reasoning": null
+  },
+  "O3/20/3": {
+    "score": 0.1,
+    "reasoning": null
+  },
+  "O3/20/4": {
+    "score": 0.1,
+    "reasoning": null
+  },
+  "O3/21/1": {
+    "score": 0.1,
+    "reasoning": null
+  },
+  "O3/21/2": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O3/21/3": {
+    "score": 0.2,
+    "reasoning": null
+  },
+  "O3/21/4": {
+    "score": 0.2,
+    "reasoning": null
+  },
+  "O3/22/1": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O3/22/2": {
+    "score": 1.0,
+    "reasoning": null
+  },
+  "O3/22/3": {
+    "score": 0.9,
+    "reasoning": null
+  },
+  "O3/22/4": {
+    "score": 0.9,
+    "reasoning": null
+  },
+  "O3/23/1": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O3/23/2": {
+    "score": 0.95,
+    "reasoning": null
+  },
+  "O3/23/3": {
+    "score": 0.2,
+    "reasoning": null
+  },
+  "O3/23/4": {
+    "score": 0.3,
+    "reasoning": null
+  },
+  "O3/24/1": {
+    "score": 0.95,
+    "reasoning": null
+  },
+  "O3/24/2": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O3/24/3": {
+    "score": 0.9,
+    "reasoning": null
+  },
+  "O3/24/4": {
+    "score": 0.2,
+    "reasoning": null
+  },
+  "O3/25/1": {
+    "score": 0.2,
+    "reasoning": null
+  },
+  "O3/25/2": {
+    "score": 0.2,
+    "reasoning": null
+  },
+  "O3/25/3": {
+    "score": 0.2,
+    "reasoning": null
+  },
+  "O3/25/4": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O3/26/1": {
+    "score": 0.9,
+    "reasoning": null
+  },
+  "O3/26/2": {
+    "score": 1.0,
+    "reasoning": null
+  },
+  "O3/26/3": {
+    "score": 0.95,
+    "reasoning": null
+  },
+  "O3/26/4": {
+    "score": 0.95,
+    "reasoning": null
+  },
+  "O3/27/1": {
+    "score": 1.0,
+    "reasoning": null
+  },
+  "O3/27/2": {
+    "score": 1.0,
+    "reasoning": null
+  },
+  "O3/27/3": {
+    "score": 0.95,
+    "reasoning": null
+  },
+  "O3/27/4": {
+    "score": 1.0,
+    "reasoning": null
+  },
+  "O3/28/1": {
+    "score": 0.1,
+    "reasoning": null
+  },
+  "O3/28/2": {
+    "score": 0.1,
+    "reasoning": null
+  },
+  "O3/28/3": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O3/28/4": {
+    "score": 0.1,
+    "reasoning": null
+  },
+  "O3/29/1": {
+    "score": 1.0,
+    "reasoning": null
+  },
+  "O3/29/2": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O3/29/3": {
+    "score": 0.0,
+    "reasoning": null
+  },
+  "O3/29/4": {
+    "score": 1.0,
+    "reasoning": null
+  },
+  "O3/30/1": {
+    "score": 0.2,
+    "reasoning": null
+  },
+  "O3/30/2": {
+    "score": 0.95,
+    "reasoning": null
+  },
+  "O3/30/3": {
+    "score": 0.1,
+    "reasoning": null
+  },
+  "O3/30/4": {
+    "score": 1.0,
+    "reasoning": null
+  }
+}
